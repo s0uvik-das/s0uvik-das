@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s0uvik-das&label=Profile%20views&color=0e75b6&style=flat" alt="s0uvik-das" /> </p>
 
-- 🌱 I’m currently learning **Advance Hacking, Rust**
-
 - 👨‍💻 All of my projects are available at [https://github.com/s0uvik-das](https://github.com/s0uvik-das)
 
 - 💬 Ask me about **Hacking and Cybersecurity**
